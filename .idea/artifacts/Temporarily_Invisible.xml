@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Temporarily Invisible">
+    <output-path>$PROJECT_DIR$/out/artifacts/Temporarily_Invisible</output-path>
+    <root id="archive" name="Temporarily Invisible.jar">
+      <element id="module-output" name="Temporarily Invisible" />
+      <element id="library" level="project" name="bukkit-1.8.3" />
+      <element id="library" level="project" name="CaptureTheFlag_jar" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+name: TemporarilyInvisible
+
+author: JA
+website:
+main: TemporarilyInvisiblePlugin
+depend: [CaptureTheFlag]
+
+commands:
+
+version: 0.1
